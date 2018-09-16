@@ -49,7 +49,7 @@ int main()
     printf("Maximum Unsigned Short %d\n",(unsigned short)~0);
     printf("Maximum Unsigned Int %u\n",(unsigned int)~0
     // NOTE %u OR %d first show 42...5 but last one -1
-    //‘%u' treats the integer as unsigned, whereas ‘%d' treats the integer as signed.
+    //â€˜%u' treats the integer as unsigned, whereas â€˜%d' treats the integer as signed.
     printf("Maximum Unsigned Long %lu\n",(unsigned long)~0);
      //printf()
     return 0;
